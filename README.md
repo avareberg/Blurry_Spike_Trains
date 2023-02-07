@@ -1,9 +1,12 @@
 # Blurry_Spike_Trains
 
-@author Adam D. Vareberg
+## Author
+- [Adam D. Vareberg](mailto:vareberg@wisc.edu?subject=[GitHub]%20Blurry_Spike_Trains)
 
 This release provides the Matlab scripts necessary for generating and processing the learning data from the following manuscript:
 https://doi.org/10.1101/2022.10.20.513050
+
+For help or to request additional scripts, please contact the author by clicking the name at the top.
 
 Directories:
 
@@ -20,4 +23,4 @@ iteration_test_*.m - Setup for the learning environment, where the user defines 
 
 fit_weights_perceptron*.m - Adapted perceptron algorithm, which takes the relevant parameters and iteratively processes binary data as time-binned data
 
-For help or more detailed descriptions, please contact the author.
+
