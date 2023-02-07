@@ -1,6 +1,6 @@
 # Blurry_Spike_Trains
 
-## Author [Adam D. Vareberg](mailto:vareberg@wisc.edu?subject=[GitHub]%20Blurry_Spike_Trains)
+### Author: [Adam D. Vareberg](mailto:vareberg@wisc.edu?subject=[GitHub]%20Blurry_Spike_Trains)
 
 This release provides the Matlab scripts necessary for generating and processing the learning data from the following manuscript:
 https://doi.org/10.1101/2022.10.20.513050
